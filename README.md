@@ -19,3 +19,4 @@ PROXY
 ![initial](https://github.com/7k1nx34b/android_rootkit/blob/main/c2_1.jpg?raw=true)
 ![initial](https://github.com/7k1nx34b/android_rootkit/blob/main/c2_2.jpg?raw=true)
 ![initial](https://github.com/7k1nx34b/android_rootkit/blob/main/s5.jpg?raw=true)
+![initial](https://github.com/7k1nx34b/android_rootkit/blob/main/s5_firefox.jpg?raw=true)
