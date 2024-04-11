@@ -1,0 +1,14 @@
+[package]
+name = "client"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bson = "2.9.0"
+serde = { version = "1.0.197", features = ["derive"] }
+rand = "0.8.5"
+pnet = "0.34.0"
+pnet_datalink = "0.34.0"
+pnet_packet = "0.34.0"
