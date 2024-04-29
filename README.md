@@ -1,4 +1,5 @@
 not exposed in battery usage or app list
+It was written for research purposes, and root privileges and adb are required for practice. Targets rooted devices
 
 ### Features
 
